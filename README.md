@@ -11,7 +11,7 @@
 ## 📂 Мои артефакты (Проекты):
 * 🐞 **[Баг-репорты](./bug-reports):** Дефекты, найденные при тестировании сайта (UI, функционал).
 * 📋 **[Тест-кейсы и чек-листы](./test-cases):** Примеры проверок для формы регистрации.
-* 🚀 **[Postman Collection](https://github.com/ksolodownikow/QA-Portfolio/blob/main/QA.postman_collection.json)):** Коллекция запросов для тестирования API (Swagger Petstore).
+* 🚀 **[Postman Collection](./https://github.com/ksolodownikow/QA-Portfolio/blob/main/QA.postman_collection.json)):** Коллекция запросов для тестирования API (Swagger Petstore).
 * 💾 **[SQL-запросы](./sql):** Примеры запросов `SELECT` и `JOIN` для проверки данных в БД.
 
 ## 📫 Как со мной связаться:
